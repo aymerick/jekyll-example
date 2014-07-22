@@ -10,3 +10,7 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude:
+  - "bower_components"
+  - "bower.json"
