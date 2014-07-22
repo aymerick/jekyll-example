@@ -13,6 +13,7 @@ permalink: pretty
 
 exclude:
   - "bower_components"
-  - "bower.json"
   - "node_modules"
+  - "bower.json"
+  - "Gruntfile.coffee"
   - "package.json"
