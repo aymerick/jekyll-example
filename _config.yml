@@ -17,3 +17,5 @@ exclude:
   - "bower.json"
   - "Gruntfile.coffee"
   - "package.json"
+  - "Rakefile"
+  - "README.md"
