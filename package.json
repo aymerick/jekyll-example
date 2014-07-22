@@ -2,7 +2,7 @@
   "name": "jekyll-example",
   "version": "0.0.0",
   "description": "Jekyll setup example",
-  "main": "index.js",
+  "main": "_site/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git://github.com/aymerick/jekyll-example.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Aymerick Jéhanne",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aymerick/jekyll-example/issues"
   },
